@@ -510,6 +510,7 @@ img{
 .footer-container{
     display: flex;
     align-items: baseline;
+    justify-content: space-between;
 }
 .footer-left{
     margin-right: 70px;
@@ -581,7 +582,7 @@ img{
 }
 
 .footer-form {
-    margin-left: 100px;
+    margin-left: 93px;
 }
 .footer-form-head {
     margin-bottom: 20px;
